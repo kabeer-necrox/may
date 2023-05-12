@@ -1,0 +1,16 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: blue;
+
+}
+h1{
+    color: red;
+}
+p{
+    color: pink;
+}
+li{
+    font-size: 20px;
+    display: flex;
+}
